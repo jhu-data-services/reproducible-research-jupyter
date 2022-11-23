@@ -3,7 +3,7 @@ You are already writing comments for your Python code so you may be wondering wh
 
 
 ## JHU Data Services   
-Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
+Website: [dataservices.library.jhu.edu](https://dataservices.library.jhu.edu/)   
 Contact us: [dataservices@jhu.edu](mailto:dataservices@jhu.edu)   
 JHU Data Services, part of the Johns Hopkins University Sheridan Libraries, helps the JHU community find, use, visualize, manage, and share data. We offer live webinars and self-paced online trainings on computational research and coding, GIS, data management, data visualization, and more. [See all of our training topics on our website.](https://dataservices.library.jhu.edu/training-workshops/)   
 
@@ -13,7 +13,9 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 
 
 ## Pre-Class Instructions
-Before the class, install Jupyter Notebooks on your computer. The easiest way to install is through the Anaconda Distribution: [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution). If you are comfortable using the command line, you may also install Jupyter Notebooks directly from Project Jupyter: [https://jupyter.org/install](https://jupyter.org/install).   
+Before the class, install Jupyter Notebooks on your computer. The easiest way to install is through the Anaconda Distribution: [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution).    
+If you are comfortable using the command line, you may also install Jupyter Notebooks directly from Project Jupyter: [https://jupyter.org/install](https://jupyter.org/install).   
+
 Note: You may use the original Jupyter Notebooks or the newer JupyterLab for this workshop.
 
 
