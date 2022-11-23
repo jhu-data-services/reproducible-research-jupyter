@@ -1,0 +1,27 @@
+This folder contains materials from the Reproducible Research workshop led by JHU Data Services on February 15, 2022. Please contact JHU Data Services at dataservices@jhu.edu with any questions.
+
+Materials in this folder:
+JupyterNotebookSlides.ipynb - notebook version of the slides presented at the workshop
+
+JupyterNotebookSlides.pdf - PDF version of the slides. This version is from the December 8, 2020 workshop but contains the same content as the February 2022 workshop.
+
+NotebookExample.ipynb - interactive notebook example that outlines a sample workflow in Jupyter Notebooks
+
+NotebookTutorial20220215.ipynb - introductory tutorial to the Jupyter Notebooks interface
+
+Images - this folder contains the screenshots and images used in the slides and example notebook
+
+Data - this folder contains the data file used in the example notebook
+
+
+Opening these materials:
+.ipynb files should be opened using Jupyter Notebooks software. The software can be downloaded through Anaconda Individual Edition (https://www.anaconda.com/products/individual) and opened using the Anaconda Navigator interface. Jupyter Notebooks can also be downloaded from Project Jupyter (https://jupyter.org/install) using a command-line interface.
+
+When opening the .ipynb files, the Images folder must be located in the same directory as the notebook files. If the Images folder is outside of the directory, the screenshots and examples will not be displayed.
+
+
+For futher learning:
+For a more in-depth notebook tutorial with screenshots, see Data Services' tutorial here:
+https://github.com/jhu-data-services/python-installation-instructions/blob/main/jupyter-notebook-tutorial/JupyterNotebookTutorial.ipynb
+
+This tutorial can be viewed directly on GitHub, or download the entire repository here (https://github.com/jhu-data-services/python-installation-instructions) to run interactively in Jupyter Notebooks software.
