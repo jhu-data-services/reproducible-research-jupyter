@@ -25,7 +25,7 @@ Note: You may use the original Jupyter Notebooks or the newer JupyterLab for thi
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [https://www.surveymonkey.com/r/jupyter-reproducible-research](https://www.surveymonkey.com/r/jupyter-reproducible-research)
+If you have taken the live webinar for this class, please take this survey: [https://www.surveymonkey.com/r/jupyter-reproducible-research](https://www.surveymonkey.com/r/jupyter-reproducible-research).
 
 
 ## License and Terms of Use
